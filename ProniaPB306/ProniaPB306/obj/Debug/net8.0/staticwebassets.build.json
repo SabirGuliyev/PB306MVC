@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wh8UavKByRO9wJsl79vhNP4E6EQxgdmfUpQtmbiaPbY=",
+  "Hash": "HMdbs6FC11w4fV+oSzFURdPdYCMVWC4ZOun/gT58Mdc=",
   "Source": "ProniaPB306",
   "BasePath": "_content/ProniaPB306",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProniaPB306\\wwwroot",
       "Source": "ProniaPB306",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\animate.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\animate.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/animate.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/ion.rangeSlider.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\ion.rangeSlider.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\magnific-popup.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\magnific-popup.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/magnific-popup.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\nice-select.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\nice-select.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/nice-select.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/Pe-icon-7-stroke.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Pe-icon-7-stroke.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\plugins.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\plugins.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/plugins.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\plugins.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\style.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\style.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\style.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/style.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\css\\swiper-bundle.min.css",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/css/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/Pe-icon-7-stroke.eot",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/Pe-icon-7-stroke.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/Pe-icon-7-stroke.ttf",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/fonts/Pe-icon-7-stroke.woff",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\icon\\1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\icon\\1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/icon/1.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\icon\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\icon\\2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\icon\\2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/icon/2.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\icon\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-1-270x270.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-1-270x270.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/team/1-1-270x270.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\team\\1-1-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-2-270x270.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-2-270x270.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/team/1-2-270x270.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\team\\1-2-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-3-270x270.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-3-270x270.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/team/1-3-270x270.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\team\\1-3-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-4-270x270.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\about\\team\\1-4-270x270.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/about/team/1-4-270x270.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about\\team\\1-4-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-1-770x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-1-770x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/1-1-770x300.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\1-1-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-2-370x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-2-370x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/1-2-370x300.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\1-2-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-3-370x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-3-370x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/1-3-370x300.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\1-3-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-4-770x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\1-4-770x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/1-4-770x300.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\1-4-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-1-570x500.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-1-570x500.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/2-1-570x500.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\2-1-570x500.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-2-570x235.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-2-570x235.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/2-2-570x235.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\2-2-570x235.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-3-570x235.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\2-3-570x235.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/2-3-570x235.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\2-3-570x235.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\3-1-1208x542.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\3-1-1208x542.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/3-1-1208x542.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\3-1-1208x542.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\4-1-1170x400.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\banner\\4-1-1170x400.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/banner/4-1-1170x400.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\4-1-1170x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-1-120x120.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-1-120x120.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/avatar/1-1-120x120.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\avatar\\1-1-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-2-120x120.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-2-120x120.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/avatar/1-2-120x120.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\avatar\\1-2-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-3-120x120.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\avatar\\1-3-120x120.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/avatar/1-3-120x120.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\avatar\\1-3-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\blockquote\\quotation.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\blockquote\\quotation.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/blockquote/quotation.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blockquote\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\large-size\\1-1-768x546.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/large-size/1-1-768x546.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\large-size\\1-1-768x546.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/medium-size/1-1-310x220.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/medium-size/1-2-310x220.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/medium-size/1-3-310x220.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/medium-size/2-1-370x270.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/medium-size/2-2-370x270.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-1-70x70.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-1-70x70.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/small-size/1-1-70x70.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\small-size\\1-1-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-2-70x70.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-2-70x70.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/small-size/1-2-70x70.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\small-size\\1-2-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-3-70x70.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\blog\\small-size\\1-3-70x70.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/blog/small-size/1-3-70x70.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\small-size\\1-3-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/1-1.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\1-1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/1-2.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\1-2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-3.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-3.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/1-3.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\1-3.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-4.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-4.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/1-4.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\1-4.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-5.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\1-5.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/1-5.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\1-5.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\bg\\1-1170x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\brand\\bg\\1-1170x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/brand/bg/1-1170x300.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\bg\\1-1170x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/breadcrumb/bg/1-1-1919x388.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\contact\\1-1-370x500.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\contact\\1-1-370x500.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/contact/1-1-370x500.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\contact\\1-1-370x500.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\error-404\\404.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\error-404\\404.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/error-404/404.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\error-404\\404.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\error-404\\bg\\1-1920x886.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\error-404\\bg\\1-1920x886.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/error-404/bg/1-1920x886.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\error-404\\bg\\1-1920x886.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\favicon.ico",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\favicon.ico",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/favicon.ico",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/footer/bg/1-1920x465.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\logo\\dark.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\logo\\dark.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/logo/dark.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\newsletter\\1-1920x400.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\newsletter\\1-1920x400.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/newsletter/1-1920x400.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\newsletter\\1-1920x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\offcanvas\\close-white.svg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\offcanvas\\close-white.svg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/offcanvas/close-white.svg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\offcanvas\\close-white.svg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\payment\\1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\payment\\1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/payment/1.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payment\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-1-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-1-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/large-size/1-1-570x633.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\large-size\\1-1-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-2-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-2-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/large-size/1-2-570x633.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\large-size\\1-2-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-3-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-3-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/large-size/1-3-570x633.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\large-size\\1-3-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-4-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\large-size\\1-4-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/large-size/1-4-570x633.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\large-size\\1-4-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-10-270x300.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-11-270x300.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-1-270x300.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-2-270x300.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-3-270x300.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-4-270x300.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-5-270x300.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-6-270x300.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-7-270x300.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-8-270x300.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/medium-size/1-9-270x300.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/1-1-112x124.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/1-2-112x124.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/1-3-112x124.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-1-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-1-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/2-1-70x78.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\2-1-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-2-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-2-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/2-2-70x78.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\2-2-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-3-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\product\\small-size\\2-3-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/product/small-size/2-3-70x78.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\small-size\\2-3-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shape\\1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shape\\1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shape/1.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shape\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shape\\2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shape\\2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shape/2.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shape\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\car.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\car.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/car.png",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\car.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\card.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\card.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/card.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\card.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\earphones.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\earphones.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/earphones.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\earphones.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\home.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\home.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/home.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\home.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\message.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\message.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/message.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\message.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\phone.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\phone.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/phone.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\phone.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\plane.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\plane.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/plane.png",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\plane.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\service.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\service.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/service.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\service.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\shield.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\shipping\\icon\\shield.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/shipping/icon/shield.png",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shipping\\icon\\shield.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/sidebar/banner/1-270x300.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\bg\\1-1.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\bg\\1-1.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/bg/1-1.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\bg\\1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\bg\\2-1.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\bg\\2-1.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/bg/2-1.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\bg\\2-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/inner-img/1-1-524x617.png",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\inner-img\\1-2-524x617.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\inner-img\\1-2-524x617.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/inner-img/1-2-524x617.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\inner-img\\1-2-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/slide-img/2-1-960x741.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/slide-img/2-2-960x741.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/slider/slide-img/2-3-960x741.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/testimonial/bg/1-1-1820x443.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\icon\\quotation.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\icon\\quotation.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/testimonial/icon/quotation.png",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/testimonial/user/1.png",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/testimonial/user/2.png",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\3.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\testimonial\\user\\3.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/testimonial/user/3.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\3.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1.png",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-10-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-10-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-10-270x300.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-10-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-120x120.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-120x120.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-120x120.webp",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-11-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-11-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-11-270x300.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-11-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1170x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1170x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1170x300.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1170x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-1820x443.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-270x300.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-310x220.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-524x617.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-524x617.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-524x617.png",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-570x633.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-768x546.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-768x546.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-768x546.webp",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-768x546.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-770x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-770x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1-770x300.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1920x465.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1920x465.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-1920x465.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-1920x465.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1--1rnu4p.png",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1--1rnu4p.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2.png",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-120x120.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-120x120.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-120x120.webp",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-270x300.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-310x220.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-370x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-370x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-370x300.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-524x617.png",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-2-570x633.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-270x300.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-270x300.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-270x300.webp",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-270x300.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3.png",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-120x120.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-120x120.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3-120x120.webp",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3-270x300.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-310x220.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-310x220.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3-310x220.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3-370x300.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-3-570x633.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-4.png",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-4.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-4-270x300.jpg",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-4-570x633.jpg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-770x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-770x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-4-770x300.jpg",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-4-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-5.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-5.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-5.png",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-5.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-5-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-5-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-5-270x300.jpg",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-5-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-6-270x300.jpg",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-7-270x300.jpg",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-8-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-8-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-8-270x300.jpg",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-8-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/1-9-270x300.jpg",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2.png",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-1-370x270.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-1-370x270.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2-1-370x270.webp",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-1-370x270.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-1-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-1-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2-1-70x78.png",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-1-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-2-370x270.webp",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-2-370x270.webp",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2-2-370x270.webp",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-2-370x270.webp"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-2-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-2-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2-2-70x78.png",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-2-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/2-3-70x78.png",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-3-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\3.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\3.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/3.png",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\3.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\car.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\car.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/car.png",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\car.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\card.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\card.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/card.png",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\card.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\dark.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\dark.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/dark.png",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\flower.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/flower.jpg",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\flower.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/nergiz.jpg",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\nergiz.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\quotation.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/quotation.png",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\rose.jpg",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\rose.jpg",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/rose.jpg",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\rose.jpg"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\service.png",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\service.png",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/images/website-images/service.png",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\service.png"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\main.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins.min.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/ion.rangeSlider.min.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/jquery.counterup.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\jquery.counterup.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/jquery.nice-select.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\jquery.nice-select.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/mailchimp-ajax.js",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/parallax.min.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\parallax.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/tippy.min.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\tippy.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\wow.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\plugins\\wow.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/plugins/wow.min.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/vendor/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery.waypoints.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery.waypoints.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/vendor/jquery.waypoints.js",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery.waypoints.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/vendor/jquery-3.6.0.min.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/vendor/jquery-migrate-3.3.2.min.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/js/vendor/modernizr-3.11.2.min.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\php\\pronia\\pronia.php",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\php\\pronia\\pronia.php",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/php/pronia/pronia.php",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\php\\pronia\\pronia.php"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_404.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_404.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_404.scss",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_404.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_about.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_about.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_about.scss",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_animation.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_animation.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_animation.scss",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_banner.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_banner.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_banner.scss",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_banner.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_blog.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_blog.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_blog.scss",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_brand.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_brand.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_brand.scss",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_brand.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_breadcrumb.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_cart.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_cart.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_cart.scss",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_cart.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_checkout.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_checkout.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_checkout.scss",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_checkout.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_common.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_common.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_common.scss",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_compare.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_compare.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_compare.scss",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_compare.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_contact.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_contact.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_contact.scss",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_faq.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_faq.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_faq.scss",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_faq.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_footer.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_header.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_header.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_header.scss",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_login-register.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_login-register.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_login-register.scss",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_login-register.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_mixins.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_mixins.scss",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_modal.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_modal.scss",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_my-account.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_my-account.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_my-account.scss",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_my-account.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_navigation.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_navigation.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_navigation.scss",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_navigation.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_newsletter.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_newsletter.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_newsletter.scss",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_newsletter.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_offcanvas.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_product.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_product.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_product.scss",
       "AssetKind": "All",
@@ -3912,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_product.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_shipping.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_shipping.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_shipping.scss",
       "AssetKind": "All",
@@ -3931,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_shipping.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_shop.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_shop.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_shop.scss",
       "AssetKind": "All",
@@ -3950,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_shop.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_sidebar.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -3969,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_slider.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_slider.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_slider.scss",
       "AssetKind": "All",
@@ -3988,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_slider.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_testimonial.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_testimonial.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_testimonial.scss",
       "AssetKind": "All",
@@ -4007,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_testimonial.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_variables.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -4026,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_wishlist.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\_wishlist.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/_wishlist.scss",
       "AssetKind": "All",
@@ -4045,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\_wishlist.scss"
     },
     {
-      "Identity": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\style.scss",
+      "Identity": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\scss\\style.scss",
       "SourceId": "ProniaPB306",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\",
       "BasePath": "_content/ProniaPB306",
       "RelativePath": "assets/scss/style.scss",
       "AssetKind": "All",

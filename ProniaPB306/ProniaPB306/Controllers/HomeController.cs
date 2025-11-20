@@ -32,7 +32,7 @@ namespace ProniaPB306.Controllers
             List<Product> products=_context.Products
                 .OrderBy(p=>p.CreatedAt)
                 .Take(8)
-                .Include(p=>p.ProductImages)
+                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null))
                 .ToList();
 
             HomeVM homeVM = new HomeVM

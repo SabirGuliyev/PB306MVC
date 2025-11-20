@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj": {}
+    "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj": {
+    "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
+        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
         "projectName": "ProniaPB306",
-        "projectPath": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
+        "projectPath": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
         "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\obj\\",
+        "outputPath": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

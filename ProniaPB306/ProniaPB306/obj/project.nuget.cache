@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0l46j6fV+T1hiRgRCD0lzL7Mi8ClyyRdHuD/4izL+Ct/5qm06E5pibVfAG+gg9uZrgcuG1v6ew0/r7PKREH3g==",
+  "dgSpecHash": "myY3oSpyO6eCRbj4GGXRtFv0zOZvesBNQ++wLjt+N4xcmhf3bZj/LbhWkZbME8UyZY3CKaU7eJarcoxPYk1FYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sabir\\Desktop\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\ProniaPB306.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabir\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
