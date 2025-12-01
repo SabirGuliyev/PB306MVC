@@ -20,17 +20,19 @@ namespace ProniaPB306.Controllers
             return View();
         }
 
-        public IActionResult Details(int? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if(id is null || id < 1)
             {
                 return BadRequest();
             }
 
-            Product? product=_context.Products
+            Product? product=await _context.Products
                 .Include(p=>p.ProductImages.OrderByDescending(pi=>pi.IsPrimary))
                 .Include(p=>p.Category)
-                .FirstOrDefault(p=>p.Id==id);
+                .Include(p=>p.ProductTags)
+                .ThenInclude(pt=>pt.Tag)
+                .FirstOrDefaultAsync(p=>p.Id==id);
 
             if(product is null)
             {
@@ -41,10 +43,10 @@ namespace ProniaPB306.Controllers
             {
                 Product = product,
 
-                RelatedProducts=_context.Products
+                RelatedProducts=await _context.Products
                 .Where(p=>p.CategoryId==product.CategoryId && p.Id!=id)
                 .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null))
-                .ToList()
+                .ToListAsync()
             };
 
 

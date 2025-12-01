@@ -1901,10 +1901,10 @@
                                 <div class="product-img">
                                     <a href="shop.html">
                                         <img class="primary-img"
-                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==true).Image"
+                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==true)?.Image"
                                              alt="Product Images" />
                                         <img class="secondary-img"
-                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==false).Image"
+                                             src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==false)?.Image"
                                              alt="Product Images" />
                                     </a>
                                     <div class="product-add-action">
@@ -1948,7 +1948,7 @@
                                     </div>
                                 </div>
                                 <div class="product-content">
-                                    <a class="product-name" href="shop/details/@product.Id">@product.Name</a>
+                                    <a class="product-name" asp-controller="shop" asp-action="details" asp-route-id="@product.Id">@product.Name</a>
                                     <div class="price-box pb-1">
                                         <span class="new-price">$@product.Price</span>
                                     </div>
