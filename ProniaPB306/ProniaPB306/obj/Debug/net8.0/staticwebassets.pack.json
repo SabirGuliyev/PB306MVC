@@ -769,6 +769,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\05940c11-fe2c-48f0-a1ec-ff55fa371d82.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\05940c11-fe2c-48f0-a1ec-ff55fa371d82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\0de19185-303f-4029-8ca3-2d74b6922a3f.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\0de19185-303f-4029-8ca3-2d74b6922a3f.png"
+    },
+    {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1--1rnu4p.png"
     },
@@ -779,10 +787,6 @@
     {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-1820x443.jpg"
-    },
-    {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-270x300.jpg"
     },
     {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg",
@@ -885,10 +889,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3.png"
     },
     {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4-270x300.jpg"
-    },
-    {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4-570x633.jpg"
     },
@@ -921,10 +921,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-8-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-9-270x300.jpg"
-    },
-    {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1.png"
     },
@@ -945,10 +941,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-2-70x78.png"
     },
     {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-3-70x78.png"
-    },
-    {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2.png"
     },
@@ -957,8 +949,24 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\3.png"
     },
     {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\74130aef-d11d-495b-b0b9-b67c70d30e9d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\74130aef-d11d-495b-b0b9-b67c70d30e9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\91df8716-fd56-4b37-a687-9a97d2ea5293.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\91df8716-fd56-4b37-a687-9a97d2ea5293.png"
+    },
+    {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\95da18b5-55a8-4488-8c56-14206d21b145.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\95da18b5-55a8-4488-8c56-14206d21b145.png"
+    },
+    {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\AccessModifiers.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\AccessModifiers.png"
+    },
+    {
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\ab48076d-2a20-4965-9deb-52bab0dd70e0.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\ab48076d-2a20-4965-9deb-52bab0dd70e0.webp"
     },
     {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\car.png",
@@ -973,12 +981,12 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
     },
     {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\flower.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flower.jpg"
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\def1cd21-e304-4edf-993a-740d8bdead34.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\def1cd21-e304-4edf-993a-740d8bdead34.webp"
     },
     {
-      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\nergiz.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\nergiz.jpg"
+      "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\flower.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flower.jpg"
     },
     {
       "Id": "C:\\Users\\sabir\\Desktop\\PB306MVC\\ProniaPB306\\ProniaPB306\\wwwroot\\assets\\images\\website-images\\quotation.png",

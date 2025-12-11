@@ -95,6 +95,8 @@ namespace ProniaPB306.Controllers
 
 
         }
+
+       
         public IActionResult Contact()
         {
             return View();
