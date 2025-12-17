@@ -1,7 +1,9 @@
 ﻿
-@model List<GetAdminProductVM>
+@model PaginatedItemsVM<GetAdminProductVM>
 @{
-    int count = 0;
+
+    int count = (Model.CurrentPage-1)*3;
+
 }
 
 <div class="row">
@@ -37,7 +39,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                          @foreach (GetAdminProductVM productVM in Model)
+                          @foreach (GetAdminProductVM productVM in Model.Items)
                             {
                                 count++;
                                 
@@ -69,6 +71,29 @@
                           
                         </tbody>
                     </table>
+
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination">
+
+                            <li class="page-item @(Model.CurrentPage==1 ? "disabled" : "")">
+                                <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage-1)" aria-label="Previous">
+                                    <span aria-hidden="true">&laquo;</span>
+                                </a>
+                            </li>
+                          
+                            @for (int i = 1; i <= Model.TotalPage; i++)
+                            {
+                                
+                                <li class="page-item @(Model.CurrentPage==i ? "disabled" : "")"><a class="page-link " asp-action="index" asp-route-page="@i">@i</a></li>
+                            }
+                            
+                            <li class="page-item @(Model.CurrentPage==Model.TotalPage ? "disabled" : "")">
+                                <a asp-action="index" asp-route-page="@(Model.CurrentPage+1)" class="page-link"  aria-label="Next">
+                                    <span aria-hidden="true">&raquo;</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
                 </div>
             </div>
         </div>
